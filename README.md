@@ -1,10 +1,35 @@
-- 👋 Hi, I’m MydMoov - Wolf Silver
-- 👀 I’m interested in robotics , gaming , and fun works.
-- 🌱 I’m currently learning Dev Web on OpenClassroom's
-- 💞️ I’m love collaborate !
-- 📫 How to reach me on my mail : denizot.myriam@gmail.com or instagram on [@mydmoov](https://www.instagram.com/mydmoov/?hl=fr) !
 
-<!---
-WolfSilver0509/WolfSilver0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Graouuuu ! :wolf:
+
+### Qui suis-je ?
+
+- Je m'appelle Myriam Denizot, et je suis actuellement Développeuse Web en formation chez OpenClassroom's !
+
+:speaking_head: Je suis également FabManager depuis plus de 9 ans . C'est une passion que j'occupe également chez moi en possédant divers machines de fablabs , tel que les imprimantes 3D , imprimante résine ou CNC. Egalement formatrice en Arduino pour la GEN pendant 4 ans.
+
+
+### ⚡ Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Arduino](https://img.shields.io/badge/-Arduino-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-orange)
+![VueJS](https://img.shields.io/badge/-VueJS-green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Thingiverse](https://img.shields.io/badge/-Thingiverse-blue)
+
+### 📫 Comment me joindre ? me parler ? me suivre ?
+
+* :flying_saucer: mail - denizot.myriam@gmail.com
+* [@mydmoov - Instagram](https://www.instagram.com/mydmoov/?hl=fr)
+
+### ⚡ Fun fact:
+
+* J'adore la programmation et les jeux vidéos
+
+
