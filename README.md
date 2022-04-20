@@ -4,7 +4,7 @@
 
 ### Qui suis-je ?
 
-- Je m'appelle Myriam Denizot, et je suis actuellement Développeuse Web en formation chez OpenClassroom's !
+- Je m'appelle Myriam Denizot, et je suis diplomée Développeur Web Bac +2.
 
 :speaking_head: Je suis également FabManager depuis plus de 9 ans . C'est une passion que j'occupe également chez moi en possédant divers machines de fablabs , tel que les imprimantes 3D , imprimante résine ou CNC. Egalement formatrice en Arduino pour la GEN pendant 4 ans.
 
