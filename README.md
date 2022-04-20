@@ -24,7 +24,7 @@
 ![Thingiverse](https://img.shields.io/badge/-Thingiverse-blue?style=flat-square&logo=thingiverse&logoColor=white)
 
 
-### 📫 Comment me joindre ? me parler ? me suivre ?
+### 📫 Comment me joindre ? Me parler ? Me suivre ?
 
 * :flying_saucer: mail - denizot.myriam@gmail.com
 * [@mydmoov - Instagram](https://www.instagram.com/mydmoov/?hl=fr)
