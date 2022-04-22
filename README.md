@@ -28,8 +28,18 @@
 ### 📫 Comment me joindre ? Me parler ? Me suivre ?
 
 * :flying_saucer: mail - denizot.myriam@gmail.com
-* [@mydmoov - Instagram](https://www.instagram.com/mydmoov/?hl=fr)
-* [Myriam D - Linkedin](https://www.linkedin.com/in/mydmoov/)
+
+
+<h3 align="left">Réseau social:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mydmoov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myriam denizot" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18356998/my-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24432213" height="30" width="40" /></a>
+<a href="https://instagram.com/mydmoov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mydmoov" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UCMcJmWmooIeXKo71MXG6AZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmcjmwmooiexko71mxg6azq" height="30" width="40" /></a>
+<a href="https://discord.gg/Wolfblack#8331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wolfblack#8331" height="30" width="40" /></a>
+</p>
+
+
 
 ### ⚡ Fun fact:
 
