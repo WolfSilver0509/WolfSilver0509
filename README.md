@@ -4,7 +4,7 @@
 
 ### Qui suis-je ?
 
-- Je m'appelle Myriam Denizot, et je suis diplomée Développeur Web Bac +2 et Python Bac +4 en alternance FULL-STACK JAVA - ANGULAR bac + 5 
+- Je m'appelle Myriam Denizot, et je suis diplomée Développeur Web Bac +2 , Python Bac +4 en alternance FULL-STACK JAVA - ANGULAR bac + 5 
 
 :speaking_head: Je suis également FabManager depuis plus de 9 ans . C'est une passion que j'occupe également chez moi en possédant divers machines de fablabs , tel que les imprimantes 3D , imprimante résine ou CNC. Egalement formatrice en Arduino pour la GEN pendant 4 ans.
 
@@ -23,7 +23,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Thingiverse](https://img.shields.io/badge/-Thingiverse-blue?style=flat-square&logo=thingiverse&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
+![Angular](https://img.shields.io/badge/-Angular-purple?style=flat-square&logo=Angular)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
 
 
 ### 📫 Comment me joindre ? Me parler ? Me suivre ?
